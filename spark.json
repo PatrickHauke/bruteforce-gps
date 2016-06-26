@@ -1,4 +1,5 @@
 {
-        "name": "Adafruit_GPS",
-        "version": "0.0.1"
+        "name": "Adafruit_GPS_bruteforce",
+        "version": "0.0.1",
+        "author": "sad_pat"
 }
